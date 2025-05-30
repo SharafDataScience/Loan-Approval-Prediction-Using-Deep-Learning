@@ -42,6 +42,8 @@ These results demonstrate strong model performance and generalization with minim
 - Jupyter Notebook
 - TensorFlow / Keras
 - Pandas, NumPy, Matplotlib, Seaborn
+## Datasets
+ - The datasets used in this project are provided along with the project files on GitHub.
 
 ## Author
 
