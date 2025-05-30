@@ -43,7 +43,7 @@ These results demonstrate strong model performance and generalization with minim
 - TensorFlow / Keras
 - Pandas, NumPy, Matplotlib, Seaborn
 ## Datasets
- - The datasets used in this project are provided along with the project files on GitHub.
+ - The datasets used in this project are provided along with the project files on GitHub called UniversalBank.csv
 
 ## Author
 
